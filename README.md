@@ -1,2 +1,4 @@
 # Leet_code
-Contains my leetcode solutions
+Hello! 
+This repo contains my leetcode solutions.
+
